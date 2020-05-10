@@ -29,14 +29,14 @@ String weatherTypeMain;
 String weatherTypeUpperCaseMain;
 
 
-const char* ssid     = "Fam Donker";         // The SSID (name) of the Wi-Fi network you want to connect to
-const char* password = "DOnker1966";               // The password of the Wi-Fi network
+const char* ssid     = "*****";         // The SSID (name) of the Wi-Fi network you want to connect to
+const char* password = "*****";               // The password of the Wi-Fi network
 
-const String endpoint = "http://api.openweathermap.org/data/2.5/weather?q=hardinxveld-giessendam,NL&units=metric&lang=NL&APPID=";
-const String key = "bdad21eb71010b42f5e3d03cda1bb144";
+const String endpoint = "*****";
+const String key = "*****";
 
 const long utcOffsetInSeconds = 7200;                 //Winter (3600)  Zomer(7200).
-const int chipSelect = D8;
+const int chipSelect = D8;-
 
 //=============================================================================//
 
